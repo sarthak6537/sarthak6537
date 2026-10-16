@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarthak
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning React.Js
+- 👀 I’m interested in Web Dev , java Development 
+- 🌱 I’m currently learning java 
 - 📫 How to reach me sarthakmahamuni12@gmail.com
 <!--- ⚡ Fun fact: I am Consistent but I Procastinate..  --->
 
